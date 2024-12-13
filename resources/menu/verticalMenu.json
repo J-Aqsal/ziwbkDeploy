@@ -1,0 +1,122 @@
+{
+  "menu": [
+    {
+      "url": "/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "dashboard"
+    },
+    {
+      "name": "Kuesioner",
+      "icon": "menu-icon tf-icons ti ti-mail",
+      "slug": "",
+      "submenu": [
+        {
+          "url": "/pembagian",
+          "name": "Kirim Kuesioner",
+          "slug": ""
+        },
+        {
+          "url": "/pemetaan",
+          "name": "Pemetaan Kuesioner",
+          "slug": ""
+        }
+      ]
+      },
+    {
+      "name": "Konten",
+      "icon": "menu-icon tf-icons ti ti-components",
+      "slug": "",
+      "submenu": [
+        {
+          "url": "/content/agen_perubahan",
+          "name": "Agen Perubahan",
+          "slug": ""
+        },
+        {
+          "url": "/content/standar_pelayanan",
+          "name": "Standar Pelayanan",
+          "slug": ""
+        },
+        {
+          "url": "/content/layanan_pengaduan",
+          "name": "Layanan Pengaduan",
+          "slug": ""
+        },
+        {
+          "url": "/content/tim_kerja",
+          "name": "Surat Keputusan",
+          "slug": ""
+        },
+        {
+          "url": "/content/tabel_tim_kerja",
+          "name": "Tim Kerja",
+          "slug": ""
+        },
+        {
+          "url": "/content/piagam",
+          "name": "Piagam",
+          "slug": ""
+        },
+        {
+          "url": "/content/berita",
+          "name": "Berita",
+          "slug": ""
+        }
+        
+      ]
+      },
+    {
+      "menuHeader": "Report"
+    },
+    {
+      "url": "/hasil_survey",
+      "name": "Hasil Survey",
+      "icon": "menu-icon tf-icons ti ti-files",
+      "slug": ""
+    },
+    {
+      "url": "/grafik",
+      "name": "Grafik Hasil Survey",
+      "icon": "menu-icon tf-icons ti ti-files",
+      "slug": ""
+    },
+    {
+      "menuHeader": "Master"
+    },
+    {
+      "url": "/user",
+      "name": "Admin",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": ""
+    },
+    {
+      "url": "/kuesioner",
+      "name": "Kuesioner",
+      "icon": "menu-icon tf-icons ti ti-checkbox",
+      "slug": ""
+    },
+    {
+      "name": "Mahasiswa",
+      "icon": "menu-icon tf-icons ti ti-book",
+      "slug": "",
+      "submenu": [
+        {
+          "url": "/mahasiswa",
+          "name": "Data Mahasiswa",
+          "slug": ""
+        },
+        {
+          "url": "/prodi",
+          "name": "Prodi",
+          "slug": ""
+        },
+        {
+          "url": "/jurusan",
+          "name": "Jurusan",
+          "slug": ""
+        }
+      ]
+      }
+      ]
+  }
