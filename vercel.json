@@ -26,9 +26,11 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "DB_CONNECTION": "pgsql",
-        "DB_HOST": "127.0.0.1",
+        "DB_HOST": "l-ke1.h.filess.io",
         "DB_PORT": "5432",
         "DB_DATABASE": "ziwbk",
-        "DB_USERNAME": "postgres"
+        "DB_USERNAME": "postgres",
+        "DB_PASSWORD": "e8d2091aa68ac18e87563038cfac7a8e5184be08",
+        "DATABASE_URL":"postgresql://ziwbk_silencemix:e8d2091aa68ac18e87563038cfac7a8e5184be08@l-ke1.h.filess.io:5432/ziwbk_silencemix"
     }
 }
